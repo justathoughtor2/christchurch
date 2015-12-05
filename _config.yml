@@ -22,9 +22,9 @@ gems:
 
 # Site owner
 owner:
-  name: Jesse P Bohanan
-  email: thoughthaven@gmail.com
-  twitter: @justathoughtor2
+  name:
+  email:
+  twitter:
   google:
     ad-client:
     ad-slot:
