@@ -1,7 +1,6 @@
 ---
 title: About Us
 layout: default
-permalink: /about/
 ---
 
 Jesus came "not to be served, but to serve" and we share the same calling in this community. We discover our purpose when we help each person discover and pursue their personal call. With a preference to see life unfold, we're throwing away the molds. Here, you can be the person you were meant to be...here you can be yourself.
