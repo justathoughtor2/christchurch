@@ -34,19 +34,20 @@ owner:
 
 
 # Site authors
-authors:
-  bohanan.jp:
-    name: JP Bohanan
-    email: bohanan.jp@gmail.com
-    twitter:
-    bio:
-    avatar: bio-photo.jpg
-  justathoughtor2:
-    name: Jesse P Bohanan
-    email: thoughthaven@gmail.com
-    twitter: justathoughtor2
-    bio: Something untraditional.
-    avatar: justathoughtor2-avatar.png
+data:
+  authors:
+    bohanan.jp:
+      name: JP Bohanan
+      email: bohanan.jp@gmail.com
+      twitter:
+      bio:
+      avatar: bio-photo.jpg
+    justathoughtor2:
+      name: Jesse P Bohanan
+      email: thoughthaven@gmail.com
+      twitter: justathoughtor2
+      bio: Something untraditional.
+      avatar: justathoughtor2-avatar.png
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
