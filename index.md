@@ -5,5 +5,7 @@ title: "Latest Posts"
 ---
 
 <div class="tiles">
-{% include latest-posts-grid-categoryless.html %}
+{% for post in site.posts limit:8 %}
+	{% include post-grid.html %}
+{% endfor %}
 </div><!-- /.tiles -->
