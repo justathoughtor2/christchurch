@@ -29,7 +29,7 @@ owner:
     ad-client:
     ad-slot:
   bio: Something untraditional.
-  avatar: justathoughtor2-avatar.png # 160x160 px image for author byline
+  avatar: avatar/justathoughtor2-avatar.png # 160x160 px image for author byline
   disqus-shortname:
 
 
@@ -47,7 +47,7 @@ data:
       email: thoughthaven@gmail.com
       twitter: justathoughtor2
       bio: Something untraditional.
-      avatar: justathoughtor2-avatar.png
+      avatar: avatar/justathoughtor2-avatar.png
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
