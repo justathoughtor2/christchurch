@@ -35,4 +35,4 @@ In our tradition, **ALL are welcome to come to the Communion table**. Jesus is t
 ## Being Christ Church
 
 Check out our booklet for what makes us unique as a congregation:
-[Being Christ Church -- Our Identity and Calling](being-christ-church-booklet.pdf)
+[Being Christ Church -- Our Identity and Calling](/being-christ-church-booklet.pdf)
