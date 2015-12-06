@@ -2,8 +2,8 @@
 
 title: Christ on the Mountain Top
 description: Friends. Purpose. Life.
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+logo: logo.png # 120x120 px default image used for Twitter summary card
+teaser: teaser.png # 400x250 px default teaser image used in image archive grid
 locale: en
 url:
 
@@ -22,15 +22,29 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
+  name: Jesse P Bohanan
+  email: thoughthaven@gmail.com
   twitter:
   google:
     ad-client:
     ad-slot:
-  bio:
+  bio: Something untraditional.
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
+
+
+# Site authors
+authors:
+  bohanan.jp:
+    name: JP Bohanan
+    email: bohanan.jp@gmail.com
+    twitter:
+    bio:
+  justathoughtor2:
+    name: Jesse P Bohanan
+    email: thoughthaven@gmail.com
+    twitter: @justathoughtor2
+    bio: Something untraditional.
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
