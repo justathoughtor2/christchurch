@@ -36,3 +36,35 @@ In our tradition, **ALL are welcome to come to the Communion table**. Jesus is t
 
 Check out our booklet for what makes us unique as a congregation:<br />
 [Being Christ Church -- Our Identity and Calling](/being-christ-church-booklet.pdf)
+
+### Our Legacy
+
+Our church was formed by the union of two smaller churches in the Mountain Top area in 1960. The original building underwent an extensive expansion project in 1981 to support the growth of the congregation.
+
+Our ancestor churches, the Mountaintop and Albert congregations, were formed to offer Christ to the growing community on the mountain.  Their union was strategic, focused on being better together at sharing Christ with our neighbors.  Today, we continue the story of growing in faith, of looking to the future with hope, and of impacting our community and region with the grace and joy of Jesus Christ – all while maintaining the rich legacy of faithfulness and mission from the past.
+
+### Mission Statement
+
+Christ United Methodist Church exists to honor God and to **make disciples of Jesus Christ for the transformation of the World**.
+
+A disciple is a follower, not someone who has “arrived.”  The Greek term for “make a disciple” is the same as “be/become a disciple”.  Making more disciples implies becoming disciples together, sharing the journey with integrity and respect.
+
+### The Shape of Ministry and Discipleship
+
+From the primitive church described in the book of Acts to the origins of Christ United Methodist Church 140 years ago, discipleship was shaped by Worship, Community (Groups), and Mission.  These overlapping realms remain the basic arenas for the spiritual formation of followers/disciples of Jesus Christ today.  While the journey may begin at any point, at Christ United Methodist Church, we urge everyone to live out their discipleship in all three areas.
+
+![The Shape of Discipleship](/images/shape-of-discipleship)
+
+### Spirituality
+
+The ancient monastics identified the three perennial areas of human struggle as wealth, sex, and power.  The monastic vows of poverty, chastity, and obedience were an effective way to directly address these issues; but these vows were only for monastics.  We apply this ancient wisdom by calling disciples to a spirituality characterized by generosity, fidelity, and integrity.  Giving is the number one antidote to the idolatry of wealth.  Faithfulness is the biblical design for sexual pleasure and fulfillment.  And, being real allows us to respect and honor both the self and others. Generosity, fidelity, integrity.  Giving, faithful, real.
+
+### Reconciliation
+
+“So when you are offering your gift at the altar, if you remember that your brother or sister has something against you, leave your gift there before the altar and go; first be reconciled to your brother or sister, and then come and offer your gift” (Matthew 5:23-24).
+
+There are bound to be differences between us, there are bound to be hurts of many kinds.  But we are called to deal with the sins we commit against each other not with gossip or spite but with reconciliation.  In worship we exchange the peace of Christ.  When we celebrate Holy Communion we declare, “In the name of Jesus Christ, you are forgiven!”  In Matthew 18:15-35, we receive a practical process for reconciliation.  The first step is private, the second step (if necessary) involves a witness, and the final step involves the leaders of the church.  In all cases, the objective is forgiveness and reconciliation.
+
+### Membership
+
+The vows of membership begin with the vows of the baptismal covenant (including the Apostles’ Creed) and the membership promises.  In addition, members are asked to embrace discipleship formed in worship, community, and mission; the mission statement of Christ United Methodist Church; a giving, faithful, and real spirituality; and reconciliation as the way to guard unity.
