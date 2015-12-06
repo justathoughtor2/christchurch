@@ -53,7 +53,7 @@ A disciple is a follower, not someone who has “arrived.”  The Greek term for
 
 From the primitive church described in the book of Acts to the origins of Christ United Methodist Church 140 years ago, discipleship was shaped by Worship, Community (Groups), and Mission.  These overlapping realms remain the basic arenas for the spiritual formation of followers/disciples of Jesus Christ today.  While the journey may begin at any point, at Christ United Methodist Church, we urge everyone to live out their discipleship in all three areas.
 
-![The Shape of Discipleship](/images/shape-of-discipleship)
+![The Shape of Discipleship](/images/shape-of-discipleship.png)
 
 ### Spirituality
 
