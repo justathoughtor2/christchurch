@@ -5,5 +5,5 @@ title: "Latest Posts"
 ---
 
 <div class="tiles">
-{% include latest-posts-grid.html %}
+{% include latest-posts-grid-categoryless.html %}
 </div><!-- /.tiles -->
