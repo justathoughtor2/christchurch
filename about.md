@@ -33,3 +33,6 @@ We serve Holy Communion (the Eucharist) by "intinction". Each person is given a 
 In our tradition, **ALL are welcome to come to the Communion table**. Jesus is the host, and he invites each of us to repent and join the family feast. **Your children** are welcome to share in Holy Communion or to receive a blessing prayer. Those with **limited mobility** are encouraged to sit in the front two pews or to notify an usher to direct the servers to bring communion to wherever you are seated. We also offer a **gluten-free** alternative.
 
 ## Being Christ Church
+
+Check out our booklet for what makes us unique as a congregation:
+[Being Christ Church -- Our Identity and Calling](being-christ-church-booklet.pdf)
