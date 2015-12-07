@@ -3,8 +3,8 @@ layout: home
 permalink: /
 title: "Latest Posts"
 image:
-	feature: pages/children-moment-1600x800.jpg
-	teaser: pages/children-moment-400x250.jpg
+		feature: pages/children-moment-1600x800.jpg
+		teaser: pages/children-moment-400x250.jpg
 ---
 
 <div class="tiles">
