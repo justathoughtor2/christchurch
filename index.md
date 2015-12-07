@@ -1,7 +1,8 @@
 ---
 layout: home
 permalink: /
-title: "Latest Posts"
+title: "Christ on the Mountain Top"
+excerpt: "Friends. Purpose. Life."
 image:
   feature: pages/children-moment-1600x800.jpg
   teaser: pages/children-moment-400x250.jpg
