@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: Christ on the Mountain Top
-description: Friends. Purpose. Life.
+title: "Christ on the Mountain Top"
+description: "Friends. Purpose. Life."
 logo: logo.png # 120x120 px default image used for Twitter summary card
 teaser: teaser.png # 400x250 px default teaser image used in image archive grid
 locale: en
@@ -22,13 +22,13 @@ gems:
 
 # Site owner
 owner:
-  name: Jesse P Bohanan
-  email: thoughthaven@gmail.com
-  twitter: justathoughtor2
+  name: "Jesse P Bohanan"
+  email: "thoughthaven@gmail.com"
+  twitter: "@justathoughtor2"
   google:
     ad-client:
     ad-slot:
-  bio: Something untraditional.
+  bio: "Something untraditional."
   avatar: avatars/justathoughtor2-avatar.png # 160x160 px image for author byline
   disqus-shortname:
 
