@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% if page.image.feature %}
-	<div class="page-lead" style="background: url({{ site.url }}/images/{{ page.image.feature }});">
+	<div class="page-lead" style="background: url({{ site.url }}/images/{{ page.image.feature }}); background-repeat: no-repeat;">
 		<div class="page-lead-content">
 			<h1 style="color: white;">{{ page.title }}</h1>
 			{% if page.excerpt %}<h2>{{ page.excerpt }}</h2>{% endif %}
