@@ -1,7 +1,9 @@
 ---
-layout: archive
+layout: home
 permalink: /
 title: "Latest Posts"
+feature: pages/children-moment-1600x800.jpg
+teaser: pages/children-moment-400x250.jpg
 ---
 
 <div class="tiles">
